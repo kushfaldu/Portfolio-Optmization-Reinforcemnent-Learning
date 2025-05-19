@@ -1,4 +1,4 @@
-# AI-Driven Portfolio Optimization for Indian Stock Market
+# Portfolio Optimization for Indian Stock Market using Reinforcement Learning
 
 ## Overview
 This project implements a reinforcement learning (RL) framework for portfolio optimization in the Indian stock market. Leveraging advanced RL algorithms (A2C, DDPG, PPO, SAC, TD3), the system dynamically allocates assets and manages risk using historical market data and technical indicators. The project demonstrates the full pipeline: data collection, preprocessing, environment setup, agent training, backtesting, and performance visualization.
