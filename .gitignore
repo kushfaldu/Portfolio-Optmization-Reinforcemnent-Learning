@@ -13,10 +13,10 @@ env/
 .cursorignore
 
 # Data & Models (optional based on usage)
-*.csv
-*.png
-results/
-trained_models/
+# *.csv
+# *.png
+# results/
+# trained_models/
 downloaded_models/
 
 # Jupyter Notebook metadata (optional)
@@ -25,3 +25,6 @@ downloaded_models/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Files
+worklog/
