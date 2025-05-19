@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environment
+env/
+*.env
+
+# VSCode and cursor
+.vscode/
+.cursor/
+.cursorignore
+
+# Data & Models (optional based on usage)
+*.csv
+*.png
+results/
+trained_models/
+downloaded_models/
+
+# Jupyter Notebook metadata (optional)
+*.nbconvert.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
